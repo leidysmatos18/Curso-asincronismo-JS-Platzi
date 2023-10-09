@@ -1,0 +1,19 @@
+{
+  "name": "curso-asincronismo-js-platzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leidysmatos18/Curso-asincronismo-JS-Platzi.git"
+  },
+  "author": "Leidys Matos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leidysmatos18/Curso-asincronismo-JS-Platzi/issues"
+  },
+  "homepage": "https://github.com/leidysmatos18/Curso-asincronismo-JS-Platzi#readme"
+}
